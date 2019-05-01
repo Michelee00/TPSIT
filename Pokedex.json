@@ -23,7 +23,7 @@
 		"name": "Ivysaur",
 		"__v": 4,
 		"description": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
-		"img": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+		"img": "http://www.serebii.net/pokemongo/pokemon/002.png",
 		"types": ["poison", "grass"],
 		"evolutions": [{
 			"level": 32,
