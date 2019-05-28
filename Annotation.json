@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "id": "1",
+            "nome_cubo": "3x3x3",
+            "img1": "https://www.rubiks.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/r/u/rubik-3x3-solved.jpg",
+            "annotazione": [
+                {
+                    "up_orario": "U",
+                    "img": "Immagine meme"
+                },
+                {
+                    "up_antiorario": "U'",
+                    "img": "Immagine meme"
+                },
+                {
+                    "up_2": "2U",
+                    "img1": "Immagine meme",
+                    "img2": "Immagine meme"
+                },
+                {
+                    "down_orario": "D",
+                    "img": "Immagine meme"
+                },
+                {
+                    "down_antiorario": "D'",
+                    "img": "Immagine meme"
+                },
+                {
+                    "down_2": "2D",
+                    "img1": "Immagine meme",
+                    "img2": "Immagine meme"
+                },
+                {
+                    "right_oraio": "R",
+                    "img": "Immagine meme"
+                },
+                {
+                    "right_antiorario": "R'",
+                    "img": "Immagine meme"
+                },
+                {
+                    "right_2": "2R",
+                    "img1": "Immagine meme",
+                    "img2": "Immagine meme"
+                },
+                {
+                    "left_orario": "L",
+                    "img": "Immagine meme"
+                },
+                {
+                    "left_antiorario": "L'",
+                    "img": "Immagine meme"
+                },
+                {
+                    "left_2": "2L",
+                    "img1": "Immagine meme",
+                    "img2": "Immagine meme"
+                },
+                {
+                    "frontal_orario": "F",
+                    "img": "Immagine meme"
+                },
+                {
+                    "frontal_antiorario": "F'",
+                    "img": "Immagine meme"
+                },
+                {
+                    "frontal_2": "2F",
+                    "img1": "Immagine meme",
+                    "img2": "Immagine meme"
+                },
+                {
+                    "back_orario": "B",
+                    "img": "Immagine meme"
+                },
+                {
+                    "back_antiorario": "B'",
+                    "img": "Immagine meme"
+                },
+                {
+                    "back_2": "2B",
+                    "img1": "Immagine meme",
+                    "img2": "Immagine meme"
+                }
+            ]
+        }
+    ]
+}
