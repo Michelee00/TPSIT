@@ -1,87 +1,189 @@
 {
-    "annotations": [
+    "array_annotazioni": [
         {
             "id": "1",
             "nome_cubo": "3x3x3",
-            "img1": "https://www.rubiks.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/r/u/rubik-3x3-solved.jpg",
-            "annotazione": [
-                {
-                    "up_orario": "U",
-                    "img": "Immagine meme"
-                },
-                {
-                    "up_antiorario": "U'",
-                    "img": "Immagine meme"
-                },
-                {
-                    "up_2": "2U",
-                    "img1": "Immagine meme",
-                    "img2": "Immagine meme"
-                },
-                {
-                    "down_orario": "D",
-                    "img": "Immagine meme"
-                },
-                {
-                    "down_antiorario": "D'",
-                    "img": "Immagine meme"
-                },
-                {
-                    "down_2": "2D",
-                    "img1": "Immagine meme",
-                    "img2": "Immagine meme"
-                },
-                {
-                    "right_oraio": "R",
-                    "img": "Immagine meme"
-                },
-                {
-                    "right_antiorario": "R'",
-                    "img": "Immagine meme"
-                },
-                {
-                    "right_2": "2R",
-                    "img1": "Immagine meme",
-                    "img2": "Immagine meme"
-                },
-                {
-                    "left_orario": "L",
-                    "img": "Immagine meme"
-                },
-                {
-                    "left_antiorario": "L'",
-                    "img": "Immagine meme"
-                },
-                {
-                    "left_2": "2L",
-                    "img1": "Immagine meme",
-                    "img2": "Immagine meme"
-                },
+            "img": "https://www.rubiks.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/r/u/rubik-3x3-solved.jpg",
+            "annotazione_cubo_3x3x3": [
                 {
                     "frontal_orario": "F",
-                    "img": "Immagine meme"
+                    "descrizione": "Rotazione di 90° in senso orario della faccia frontale (di fronte al risolutore)",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse01.jpg"
+                        }
+                    ]
                 },
                 {
                     "frontal_antiorario": "F'",
-                    "img": "Immagine meme"
+                    "descrizione": "Rotazione di 90° in senso antiorario della faccia frontale (di fronte al risolutore)",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse02.jpg"
+                        }
+                    ]
                 },
                 {
                     "frontal_2": "2F",
-                    "img1": "Immagine meme",
-                    "img2": "Immagine meme"
+                    "descrizione": "Rotazione di 180° in senso orario o antiorario della faccia frontale (di fronte al risolutore)",
+                    "immagini": [
+                        {
+                            "img0": "http://www.msmountain.it/varie/rubik/3x3x3mosse01.jpg",
+                            "img1": "http://www.msmountain.it/varie/rubik/3x3x3mosse01.jpg",
+                            "img2": "http://www.msmountain.it/varie/rubik/3x3x3mosse02.jpg",
+                            "img3": "http://www.msmountain.it/varie/rubik/3x3x3mosse02.jpg"
+                        }
+                    ]
                 },
                 {
                     "back_orario": "B",
-                    "img": "Immagine meme"
+                    "descrizione": "Rotazione di 90° in senso orario della faccia posteriore (opposta alla faccia frontale)",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse13.jpg"
+                        }
+                    ]
                 },
                 {
                     "back_antiorario": "B'",
-                    "img": "Immagine meme"
+                    "descrizione": "Rotazione di 90° in senso antiorario della faccia posteriore (opposta alla faccia frontale)",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse14.jpg"
+                        }
+                    ]
                 },
                 {
                     "back_2": "2B",
-                    "img1": "Immagine meme",
-                    "img2": "Immagine meme"
+                    "descrizione": "Rotazione di 180° in senso orario o antiorario della faccia posteriore (opposta alla faccia frontale)",
+                    "immagini": [
+                        {
+                            "img0": "http://www.msmountain.it/varie/rubik/3x3x3mosse13.jpg",
+                            "img1": "http://www.msmountain.it/varie/rubik/3x3x3mosse13.jpg",
+                            "img2": "http://www.msmountain.it/varie/rubik/3x3x3mosse14.jpg",
+                            "img3": "http://www.msmountain.it/varie/rubik/3x3x3mosse14.jpg"
+                        }
+                    ]
+                },
+                {
+                    "right_oraio": "R",
+                    "descrizione": "Rotazione di 90° in senso orario della faccia destra (rispetto al risolutore)",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse07.jpg"
+                        }
+                    ]
+                },
+                {
+                    "right_antiorario": "R'",
+                    "descrizione": "Rotazione di 90° in senso antiorario della faccia destra (rispetto al risolutore)",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse08.jpg"
+                        }
+                    ]
+                },
+                {
+                    "right_2": "2R",
+                    "descrizione": "Rotazione di 180° in senso orario o antiorario della faccia destra (rispetto al risolutore)",
+                    "immagini": [
+                        {
+                            "img0": "http://www.msmountain.it/varie/rubik/3x3x3mosse07.jpg",
+                            "img1": "http://www.msmountain.it/varie/rubik/3x3x3mosse07.jpg",
+                            "img2": "http://www.msmountain.it/varie/rubik/3x3x3mosse08.jpg",
+                            "img3": "http://www.msmountain.it/varie/rubik/3x3x3mosse08.jpg"
+                        }
+                    ]
+                },
+                {
+                    "left_orario": "L",
+                    "descrizione": "Rotazione di 90° in senso orario della faccia sinistra (rispetto al risolutore)",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse10.jpg"
+                        }
+                    ]
+                },
+                {
+                    "left_antiorario": "L'",
+                    "descrizione": "Rotazione di 90° in senso antiorario della faccia sinistra (rispetto al risolutore)",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse11.jpg"
+                        }
+                    ]
+                },
+                {
+                    "left_2": "2L",
+                    "descrizione": "Rotazione di 180° in senso orario o antiorario della faccia sinistra (rispetto al risolutore)",
+                    "immagini": [
+                        {
+                            "img0": "http://www.msmountain.it/varie/rubik/3x3x3mosse10.jpg",
+                            "img1": "http://www.msmountain.it/varie/rubik/3x3x3mosse10.jpg",
+                            "img2": "http://www.msmountain.it/varie/rubik/3x3x3mosse11.jpg",
+                            "img3": "http://www.msmountain.it/varie/rubik/3x3x3mosse11.jpg"
+                        }
+                    ]
+                },
+                {
+                    "up_orario": "U",
+                    "descrizione": "Rotazione di 90° in senso orario della faccia superiore",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "up_antiorario": "U'",
+                    "descrizione": "Rotazione di 90° in senso antiorario della faccia superiore",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "up_2": "2U",
+                    "descrizione": "Rotazione di 180° in senso orario o antiorario della faccia superiore",
+                    "immagini": [
+                        {
+                            "img0": "http://www.msmountain.it/varie/rubik/3x3x3mosse04.jpg",
+                            "img1": "http://www.msmountain.it/varie/rubik/3x3x3mosse04.jpg",
+                            "img2": "http://www.msmountain.it/varie/rubik/3x3x3mosse05.jpg",
+                            "img3": "http://www.msmountain.it/varie/rubik/3x3x3mosse05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "down_orario": "D",
+                    "descrizione": "Rotazione di 90° in senso orario della faccia inferiore",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse16.jpg"
+                        }
+                    ]
+                },
+                {
+                    "down_antiorario": "D'",
+                    "descrizione": "Rotazione di 90° in senso antiorario della faccia inferiore",
+                    "immagini": [
+                        {
+                            "img": "http://www.msmountain.it/varie/rubik/3x3x3mosse17.jpg"
+                        }
+                    ]
+                },
+                {
+                    "down_2": "2D",
+                    "descrizione": "Rotazione di 180° in senso orario o antiorario della faccia inferiore",
+                    "immagini": [
+                        {
+                            "img0": "http://www.msmountain.it/varie/rubik/3x3x3mosse16.jpg",
+                            "img1": "http://www.msmountain.it/varie/rubik/3x3x3mosse16.jpg",
+                            "img2": "http://www.msmountain.it/varie/rubik/3x3x3mosse17.jpg",
+                            "img3": "http://www.msmountain.it/varie/rubik/3x3x3mosse17.jpg"
+                        }
+                    ]
                 }
             ]
         }
